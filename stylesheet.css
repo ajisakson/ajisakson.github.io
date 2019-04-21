@@ -1,0 +1,9 @@
+#certs ul {
+  max-width: 80%;
+
+}
+
+#certs li {
+  list-style: none;
+  display: inline-block;
+}
