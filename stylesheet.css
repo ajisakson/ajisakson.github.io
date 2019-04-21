@@ -6,5 +6,9 @@
 #certs li {
   list-style: none;
   display: inline-block;
-  width: 200px;
+}
+
+#certs li img {
+  width: 100px;
+  padding: 10px;
 }
