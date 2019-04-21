@@ -6,4 +6,5 @@
 #certs li {
   list-style: none;
   display: inline-block;
+  width: 200px;
 }
